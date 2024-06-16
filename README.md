@@ -10,12 +10,14 @@
 - [Examples](#examples)
 
 ## Introduction
+
 **unicon** is a command-line unit conversion tool that allows you to easily
 convert values between various units such as temperature, length, time, mass,
 and digital storage. This tool is designed to be user-friendly and flexible,
 allowing you to convert units with precision.
 
 ## Features
+
 - Convert between a wide range of unit types including temperature, length,
   time, mass, and digital storage.
 - Easily specify the number of decimal places for rounding the result.
@@ -25,9 +27,9 @@ allowing you to convert units with precision.
 This tool is provided as source code and can be built using `make`. By just
 typing make in the terminal within the code's directory:
 
-   ```bash
-   make
-   ```
+```bash
+make
+```
 
 You should now have an executable named `unicon`. You can copy it to a location
 in your PATH for easy access.
